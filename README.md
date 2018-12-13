@@ -17,5 +17,5 @@ Electric_fan using ATMEGA128
 8. The LCD show the ready state("I`m ready"), reserved state("Reserved!") and quit of the fan("good bye").
 
 ***
-### Incheon National University(major. Electronic Engineering)
-+**Park JunYoung(9851248@gmail.com)
+##### Incheon National University(major. Electronic Engineering)
+*Park JunYoung(9851248@gmail.com)
