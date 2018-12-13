@@ -1,7 +1,7 @@
 # ATMEGA128_electric_fan
 Electric_fan using ATMEGA128
 
-## Project goal([demo Video](https://youtu.be/R_cR_7Gegog))
+## Project goal([demo video](https://youtu.be/R_cR_7Gegog))
 1. The fan will turn on when you press TACTswitch.
 2. The first three TACTswitch determine the speed of the fan.(slow/quick/quickquick)
 3. Press the 4th TACT to exit.
